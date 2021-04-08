@@ -12,8 +12,9 @@ namespace PrepMajor.Steps
     public class StudentRegistrationSteps
 
     {
-
+        //newbie
         StudentRegistrationPages _studentRegistrationPage;
+        public int a = 2;
 
         public StudentRegistrationSteps()
         {

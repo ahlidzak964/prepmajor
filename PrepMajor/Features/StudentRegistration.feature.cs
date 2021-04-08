@@ -165,6 +165,16 @@ this.AsAUserICanNavigateToPrepmajor_ComAndOpenTheSuccessfullyRegister("Simonhear
 this.AsAUserICanNavigateToPrepmajor_ComAndOpenTheSuccessfullyRegister("Simonheart9685", "somonheart9685@gmail.com", "Simonsays85", "Simonsays", ((string[])(null)));
 #line hidden
         }
+        
+        [TechTalk.SpecRun.ScenarioAttribute("as a user I can navigate to prepmajor.com and open the successfully register, Var" +
+            "iant 3", new string[] {
+                "mytag"}, SourceLine=15)]
+        public virtual void AsAUserICanNavigateToPrepmajor_ComAndOpenTheSuccessfullyRegister_Variant3()
+        {
+#line 3
+this.AsAUserICanNavigateToPrepmajor_ComAndOpenTheSuccessfullyRegister("Simonheart9685", "somonheart9685@gmail.com", "Simonsays85", "Simonsays", ((string[])(null)));
+#line hidden
+        }
     }
 }
 #pragma warning restore
